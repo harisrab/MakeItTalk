@@ -46,6 +46,12 @@ conda activate makeittalk_env
 ```
 sudo apt-get install ffmpeg
 ```
+
+- install necessary compilers
+```
+sudo apt install build-essential
+```
+
 - python packages
 ```
 pip install -r requirements.txt
