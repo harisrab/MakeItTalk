@@ -37,6 +37,9 @@ Our method creates both non-photorealistic cartoon animations (top) and natural 
 - [ ] Training code for each module
 
 ## Requirements
+
+Tested on Ubuntu 20.04 (Works)
+
 - Python environment 3.6
 ```
 conda create -n makeittalk_env python=3.6
